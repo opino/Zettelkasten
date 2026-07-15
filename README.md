@@ -7,5 +7,12 @@ Die Artikel werden hier verlinkt so das ein Inhaltsverzeichniss entsteht.
 
 In den Artikeln sollte ein Link auf das PDF sein.
 
+## KI
+
 - [MTP- Speculative Decoding](KI/MTP.md)
 - [GEX44 KI Server](KI/GEX44.md)
+
+
+## Nginx
+
+- [Nginx Beispiel Konfiguration](Nginx/nginx.md)
